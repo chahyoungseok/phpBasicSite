@@ -1,0 +1,13 @@
+#message_box { position: relative; width: 700px; margin: 0 auto;}
+#message_box h3 { margin-top: 20px;	padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+#message_box .buttons { text-align: right; margin: 20px 0 20px 0; }
+#message_box .buttons li { display: inline; }
+#message_box .buttons button { padding: 5px 10px; cursor: pointer; background: #CBCBF9; border: 0;}
+#message_box input{ width: 200px; height: 20px;}
+#message_box #content_img_bar {text-align: center;}
+#message_box .buttons img { width:15px;height: 15px;}
+#message_box { width: 700px; margin: 0 auto; }
+#message_box .title { margin-top: 30px; padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+#message_list li { padding: 10px 0; border-bottom: solid 1px #dddddd; display: inline;}
+#message_list .message_opponent {text-align:left; margin : 10px 0px 10px 30px;}
+#message_list .message_my {text-align:right; margin : 10px 30px 10px 0px;}

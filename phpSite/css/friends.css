@@ -1,0 +1,17 @@
+#friends_box { width: 800px; margin: 0 auto;}
+#friends_box h3#member_title { margin: 30px 0 10px 0; text-align: center;}
+#member_list { margin: 10px 0 30px 0;}
+#member_list li:nth-child(1) { font-weight: bold; border-top: solid 2px #CBCBF9; border-bottom: solid 2px #CBCBF9; background-color: #E8E8F8;}
+#member_list li { padding: 10px 0; border-bottom: solid 1px #CBCBF9; }
+#member_list span { display: inline-block; text-align: center;}
+#member_list input { width: 40px; height: 20px; text-align: center;}
+#member_list button { padding: 3px 10px; background: #CBCBF9; border: 0;}
+#member_list .col1 { margin-left: 40px; width: 80px; }
+#member_list .col2 { width: 180px; }
+#member_list .col3 { width: 100px; }
+#member_list .col4 { width: 180px; }
+#member_list .col5 { width: 190px; text-align: center;}
+#member_list .col6 { margin-left: 40px; width: 100px; }
+#member_list .col7 { width: 260px; }
+#member_list .col8 { width: 200px; }
+#member_list .col9 { width: 180px; text-align: center;}
