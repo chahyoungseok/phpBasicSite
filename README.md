@@ -16,9 +16,6 @@
     <li><a href="#사이트-기본기능소개">사이트 기본기능소개</a></li>
     <li><a href="#일반사용자-기능소개">일반사용자 기능소개</a></li>
     <li><a href="#관리자-기능소개">관리자 기능소개</a></li>
-    <li><a href="#성능-분석">성능 분석</a></li>
-    <li><a href="#결론">결론</a></li>
-    <li><a href="https://www.youtube.com/watch?v=EDSXQ_lxfdk">Youtube Link</a></li>
   </ol>
 </details>
 
